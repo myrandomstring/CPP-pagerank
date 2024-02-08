@@ -1,6 +1,4 @@
 /*******************************************************************************
-Oct 2011 BecomeJapan programming test [Adam Jackson]
-
 This application identifies page rank leaks (nodes with no outbound links), rank 
 sinks (groups of interconnected nodes not connected to the rest of the graph) 
 and calculates the page rank for nodes in a directed graph. The graph is input

@@ -1,6 +1,4 @@
 /****************************************************************
-Oct 2011 BecomeJapan programming test [Adam Jackson]
-
 This class finds page rank leaks, page rank sinks and calculates
 the page rank of the nodes in a given directed graph. It can remove
 orphan nodes (no inbound links) and nodes pointed to only by orphan

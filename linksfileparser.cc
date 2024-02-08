@@ -1,6 +1,4 @@
 /****************************************************************
-Oct 2011 BecomeJapan programming test [Adam Jackson]
-
 Parses a text file with two strings per line where each string 
 represents a node in a directed graph with an edge (link) from 
 the first node to the second node. The nodes and their edges can 

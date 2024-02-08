@@ -1,6 +1,4 @@
 /****************************************************************
-Oct 2011 BecomeJapan programming test [Adam Jackson]
-
 Class representing a directed graph. The graph is an adjacency
 matrix to which edges and vertices can be added. Nodes in the 
 graph also map to node objects.
